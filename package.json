@@ -1,0 +1,14 @@
+{
+    "name": "practica_1",
+    "version": "1.0.0",
+    "type": "module",
+    "description": "Practica 1 del módulo 7",
+    "main": "index.js",
+    "scripts": {
+        "start": "node src/index.js"
+    },
+    "dependencies": {
+        "dotenv": "^16.5.0",
+        "morgan": "^1.10.0"
+    }
+}

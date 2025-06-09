@@ -1,0 +1,149 @@
+[
+  {
+    "id": 1,
+    "titulo": "El Padrino",
+    "descripcion": "La historia de la familia mafiosa Corleone.",
+    "fecha_estreno": "1972-03-24",
+    "director": "Francis Ford Coppola"
+  },
+  {
+    "id": 2,
+    "titulo": "Pulp Fiction",
+    "descripcion": "Historias entrelazadas de crimen en Los Ángeles.",
+    "fecha_estreno": "1994-10-14",
+    "director": "Quentin Tarantino"
+  },
+  {
+    "id": 3,
+    "titulo": "Forrest Gump",
+    "descripcion": "La vida de un hombre con un gran corazón.",
+    "fecha_estreno": "1994-07-06",
+    "director": "Robert Zemeckis"
+  },
+  {
+    "id": 4,
+    "titulo": "La lista de Schindler",
+    "descripcion": "Un empresario salva a judíos durante el Holocausto.",
+    "fecha_estreno": "1993-12-15",
+    "director": "Steven Spielberg"
+  },
+  {
+    "id": 5,
+    "titulo": "El caballero oscuro",
+    "descripcion": "Batman enfrenta al Joker en Gotham.",
+    "fecha_estreno": "2008-07-18",
+    "director": "Christopher Nolan"
+  },
+  {
+    "id": 6,
+    "titulo": "Inception",
+    "descripcion": "Un ladrón roba secretos a través de los sueños.",
+    "fecha_estreno": "2010-07-16",
+    "director": "Christopher Nolan"
+  },
+  {
+    "id": 7,
+    "titulo": "Matrix",
+    "descripcion": "Un hacker descubre la verdad sobre su realidad.",
+    "fecha_estreno": "1999-03-31",
+    "director": "Lana Wachowski, Lilly Wachowski"
+  },
+  {
+    "id": 8,
+    "titulo": "Gladiator",
+    "descripcion": "Un general romano busca venganza.",
+    "fecha_estreno": "2000-05-05",
+    "director": "Ridley Scott"
+  },
+  {
+    "id": 9,
+    "titulo": "Titanic",
+    "descripcion": "Historia de amor a bordo del Titanic.",
+    "fecha_estreno": "1997-12-19",
+    "director": "James Cameron"
+  },
+  {
+    "id": 10,
+    "titulo": "El Señor de los Anillos: La Comunidad del Anillo",
+    "descripcion": "Un grupo intenta destruir un anillo maligno.",
+    "fecha_estreno": "2001-12-19",
+    "director": "Peter Jackson"
+  },
+  {
+    "id": 11,
+    "titulo": "Star Wars: Episodio IV - Una nueva esperanza",
+    "descripcion": "La rebelión lucha contra el Imperio Galáctico.",
+    "fecha_estreno": "1977-05-25",
+    "director": "George Lucas"
+  },
+  {
+    "id": 12,
+    "titulo": "Jurassic Park",
+    "descripcion": "Dinosaurios clonados escapan en una isla.",
+    "fecha_estreno": "1993-06-11",
+    "director": "Steven Spielberg"
+  },
+  {
+    "id": 13,
+    "titulo": "Avatar",
+    "descripcion": "Un soldado se une a los Na'vi en Pandora.",
+    "fecha_estreno": "2009-12-18",
+    "director": "James Cameron"
+  },
+  {
+    "id": 14,
+    "titulo": "El Rey León",
+    "descripcion": "Un león joven debe reclamar su reino.",
+    "fecha_estreno": "1994-06-24",
+    "director": "Roger Allers, Rob Minkoff"
+  },
+  {
+    "id": 15,
+    "titulo": "Amélie",
+    "descripcion": "Una joven ayuda a los demás en París.",
+    "fecha_estreno": "2001-04-25",
+    "director": "Jean-Pierre Jeunet"
+  },
+  {
+    "id": 16,
+    "titulo": "La vida es bella",
+    "descripcion": "Un padre protege a su hijo en un campo de concentración.",
+    "fecha_estreno": "1997-12-20",
+    "director": "Roberto Benigni"
+  },
+  {
+    "id": 17,
+    "titulo": "Interstellar",
+    "descripcion": "Exploradores viajan a través de un agujero de gusano.",
+    "fecha_estreno": "2014-11-07",
+    "director": "Christopher Nolan"
+  },
+  {
+    "id": 18,
+    "titulo": "Coco",
+    "descripcion": "Un niño viaja al mundo de los muertos.",
+    "fecha_estreno": "2017-10-27",
+    "director": "Lee Unkrich, Adrian Molina"
+  },
+  {
+    "id": 19,
+    "titulo": "La La Land",
+    "descripcion": "Un músico y una actriz persiguen sus sueños.",
+    "fecha_estreno": "2016-12-09",
+    "director": "Damien Chazelle"
+  },
+  {
+    "id": 20,
+    "titulo": "Parásitos",
+    "descripcion": "Una familia pobre se infiltra en una casa rica.",
+    "fecha_estreno": "2019-05-30",
+    "director": "Bong Joon-ho"
+  },
+  {
+    "id": 21,
+    "titulo": "hola adios",
+    "descripcion": "La vida de un hombre con un gran corazón.",
+    "fecha_estreno": "1994-07-06",
+    "director": "Robert Zemeckis"
+  }
+]
