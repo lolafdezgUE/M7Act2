@@ -19,7 +19,7 @@ Este proyecto es una API RESTful para la gestión de películas, desarrollada co
 2. Instala las dependencias:
 
    ```bash
-   npm install
+   npm install express joi
    ```
 
 ---
@@ -30,11 +30,9 @@ Crea un archivo `.env` en la raíz del proyecto con el siguiente contenido:
 
 ```
 PORT=3000
-FILMS_DIR=./data/films.json
 ```
 
 - `PORT`: Puerto en el que se ejecutará el servidor.
-- `FILMS_DIR`: Ruta al archivo JSON donde se almacenan las películas.
 
 ---
 
